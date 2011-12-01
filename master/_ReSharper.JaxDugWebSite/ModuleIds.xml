@@ -1,0 +1,6 @@
+<Modules>
+  <Module PersistentId="EFE52886-4E29-45C6-8CC4-FEB92438DB9E" ModuleId="JaxDug" />
+  <Module PersistentId="54F89628-922B-43CC-94A2-B3B8B3B0B4DB" ModuleId="JaxDug.Tests" />
+  <Module PersistentId="System.Workflow.ComponentModel, Version=4.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35" ModuleId="System.Workflow.ComponentModel" />
+  <Module PersistentId="Google.Apis, Version=1.1.4338.25503, Culture=neutral" ModuleId="Google.Apis" />
+</Modules>

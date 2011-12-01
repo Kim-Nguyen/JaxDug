@@ -1,0 +1,175 @@
+<Configuration>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="EFE52886-4E29-45C6-8CC4-FEB92438DB9E/d:Models/f:ErrorDisplay.cs" caret="0" fromTop="0" />
+      <File id="EFE52886-4E29-45C6-8CC4-FEB92438DB9E/d:ViewModels/f:BaseViewModel.cs" caret="395" fromTop="1" />
+      <File id="EFE52886-4E29-45C6-8CC4-FEB92438DB9E/d:Views/d:Account/f:Registration.cshtml" caret="1776" fromTop="24" />
+      <File id="EFE52886-4E29-45C6-8CC4-FEB92438DB9E/d:Views/f:Web.config" caret="1045" fromTop="14" />
+      <File id="EFE52886-4E29-45C6-8CC4-FEB92438DB9E/d:Controllers/f:HomeController.cs" caret="287" fromTop="13" />
+      <File id="EFE52886-4E29-45C6-8CC4-FEB92438DB9E/f:Global.asax.cs" caret="516" fromTop="12" />
+      <File id="EFE52886-4E29-45C6-8CC4-FEB92438DB9E/f:Web.config" caret="853" fromTop="0" />
+      <File id="EFE52886-4E29-45C6-8CC4-FEB92438DB9E/d:Views/d:Home/f:Index.cshtml" caret="0" fromTop="0" />
+      <File id="EFE52886-4E29-45C6-8CC4-FEB92438DB9E/d:Controllers/f:BaseController.cs" caret="1053" fromTop="28" />
+      <File id="EFE52886-4E29-45C6-8CC4-FEB92438DB9E/d:Content/f:Site.css" caret="3403" fromTop="13" />
+      <File id="EFE52886-4E29-45C6-8CC4-FEB92438DB9E/d:Views/d:Shared/f:_LogOnPartial.cshtml" caret="29" fromTop="0" />
+      <File id="EFE52886-4E29-45C6-8CC4-FEB92438DB9E/d:Models/f:UserState.cs" caret="1126" fromTop="28" />
+      <File id="EFE52886-4E29-45C6-8CC4-FEB92438DB9E/d:Views/d:Account/f:OpenLogin.cshtml" caret="1365" fromTop="25" />
+      <File id="EFE52886-4E29-45C6-8CC4-FEB92438DB9E/d:Views/d:Account/f:Login.cshtml" caret="129" fromTop="8" />
+      <File id="EFE52886-4E29-45C6-8CC4-FEB92438DB9E/d:Models/f:AccountModels.cs" caret="1133" fromTop="36" />
+      <File id="EFE52886-4E29-45C6-8CC4-FEB92438DB9E/d:Views/d:Shared/f:_Layout.cshtml" caret="1031" fromTop="27" />
+      <File id="EFE52886-4E29-45C6-8CC4-FEB92438DB9E/d:Views/d:Moderator/f:Index.cshtml" caret="122" fromTop="6" />
+      <File id="EFE52886-4E29-45C6-8CC4-FEB92438DB9E/d:Views/f:_ViewStart.cshtml" caret="8" fromTop="1" />
+      <File id="EFE52886-4E29-45C6-8CC4-FEB92438DB9E/d:Views/d:Moderator/f:Submissions.cshtml" caret="177" fromTop="8" />
+      <File id="EFE52886-4E29-45C6-8CC4-FEB92438DB9E/d:Controllers/f:AccountController.cs" caret="9973" fromTop="35" />
+      <File id="EFE52886-4E29-45C6-8CC4-FEB92438DB9E/d:Controllers/f:ModeratorController.cs" caret="515" fromTop="19" />
+      <File id="EFE52886-4E29-45C6-8CC4-FEB92438DB9E/d:Models/f:GoogleServiceModel.cs" caret="268" fromTop="8" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="EFE52886-4E29-45C6-8CC4-FEB92438DB9E/d:Views/d:Moderator/f:Index.cshtml" caret="36" fromTop="0" />
+      <File id="EFE52886-4E29-45C6-8CC4-FEB92438DB9E/d:Views/d:Moderator/f:Index.cshtml" caret="657" fromTop="23" />
+      <File id="EFE52886-4E29-45C6-8CC4-FEB92438DB9E/d:Views/d:Moderator/f:Index.cshtml" caret="173" fromTop="9" />
+      <File id="EFE52886-4E29-45C6-8CC4-FEB92438DB9E/d:Models/f:GoogleServiceModel.cs" caret="13" fromTop="0" />
+      <File id="EFE52886-4E29-45C6-8CC4-FEB92438DB9E/d:Controllers/f:AccountController.cs" caret="8175" fromTop="44" />
+      <File id="EFE52886-4E29-45C6-8CC4-FEB92438DB9E/d:Controllers/f:AccountController.cs" caret="9798" fromTop="33" />
+      <File id="EFE52886-4E29-45C6-8CC4-FEB92438DB9E/d:Models/f:GoogleServiceModel.cs" caret="2026" fromTop="38" />
+      <File id="EFE52886-4E29-45C6-8CC4-FEB92438DB9E/d:Models/f:GoogleServiceModel.cs" caret="3003" fromTop="17" />
+      <File id="EFE52886-4E29-45C6-8CC4-FEB92438DB9E/d:Models/f:GoogleServiceModel.cs" caret="3185" fromTop="22" />
+      <File id="EFE52886-4E29-45C6-8CC4-FEB92438DB9E/d:Models/f:GoogleServiceModel.cs" caret="5919" fromTop="46" />
+      <File id="EFE52886-4E29-45C6-8CC4-FEB92438DB9E/d:Models/f:GoogleServiceModel.cs" caret="5598" fromTop="40" />
+      <File id="EFE52886-4E29-45C6-8CC4-FEB92438DB9E/d:Models/f:GoogleServiceModel.cs" caret="5919" fromTop="49" />
+      <File id="EFE52886-4E29-45C6-8CC4-FEB92438DB9E/d:Controllers/f:ModeratorController.cs" caret="568" fromTop="30" />
+      <File id="EFE52886-4E29-45C6-8CC4-FEB92438DB9E/d:Views/d:Moderator/f:Submissions.cshtml" caret="117" fromTop="2" />
+      <File id="EFE52886-4E29-45C6-8CC4-FEB92438DB9E/d:Views/d:Moderator/f:Submissions.cshtml" caret="51" fromTop="0" />
+      <File id="EFE52886-4E29-45C6-8CC4-FEB92438DB9E/d:Views/d:Moderator/f:Index.cshtml" caret="304" fromTop="13" />
+      <File id="EFE52886-4E29-45C6-8CC4-FEB92438DB9E/d:Views/d:Moderator/f:Submissions.cshtml" caret="278" fromTop="12" />
+      <File id="EFE52886-4E29-45C6-8CC4-FEB92438DB9E/d:Views/d:Moderator/f:Submissions.cshtml" caret="177" fromTop="8" />
+      <File id="EFE52886-4E29-45C6-8CC4-FEB92438DB9E/d:Controllers/f:ModeratorController.cs" caret="21" fromTop="0" />
+      <File id="EFE52886-4E29-45C6-8CC4-FEB92438DB9E/d:Models/f:GoogleServiceModel.cs" caret="1282" fromTop="36" />
+      <File id="EFE52886-4E29-45C6-8CC4-FEB92438DB9E/d:Models/f:GoogleServiceModel.cs" caret="636" fromTop="18" />
+      <File id="EFE52886-4E29-45C6-8CC4-FEB92438DB9E/d:Controllers/f:ModeratorController.cs" caret="219" fromTop="8" />
+      <File id="EFE52886-4E29-45C6-8CC4-FEB92438DB9E/d:Controllers/f:ModeratorController.cs" caret="379" fromTop="14" />
+      <File id="EFE52886-4E29-45C6-8CC4-FEB92438DB9E/d:Controllers/f:ModeratorController.cs" caret="515" fromTop="19" />
+      <File id="EFE52886-4E29-45C6-8CC4-FEB92438DB9E/d:Models/f:GoogleServiceModel.cs" caret="4131" fromTop="28" />
+      <File id="EFE52886-4E29-45C6-8CC4-FEB92438DB9E/d:Models/f:GoogleServiceModel.cs" caret="4298" fromTop="33" />
+      <File id="EFE52886-4E29-45C6-8CC4-FEB92438DB9E/d:Models/f:GoogleServiceModel.cs" caret="4715" fromTop="35" />
+      <File id="EFE52886-4E29-45C6-8CC4-FEB92438DB9E/d:Models/f:GoogleServiceModel.cs" caret="4905" fromTop="37" />
+      <File id="EFE52886-4E29-45C6-8CC4-FEB92438DB9E/d:Models/f:GoogleServiceModel.cs" caret="5353" fromTop="33" />
+      <File id="EFE52886-4E29-45C6-8CC4-FEB92438DB9E/d:Models/f:GoogleServiceModel.cs" caret="5539" fromTop="38" />
+    </RecentEdits>
+  </RecentFiles>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <UnitTestRunner>
+    <Providers />
+  </UnitTestRunner>
+  <UnitTestRunnerNUnit>
+    <NUnitInstallDir IsNull="False">
+    </NUnitInstallDir>
+    <UseAddins>Never</UseAddins>
+  </UnitTestRunnerNUnit>
+  <CompletionStatisticsManager>
+    <ItemStatistics item="Default">
+      <Item value="using" priority="8" />
+      <Item value="Google.Apis.Moderator" priority="1" />
+      <Item value="Google`0" priority="1" />
+      <Item value="Google" priority="4" />
+      <Item value="var" priority="5" />
+      <Item value="new" priority="6" />
+      <Item value="Google.Apis.Moderator.v1" priority="0" />
+      <Item value="DotNetOpenAuth" priority="1" />
+      <Item value="OAuth2" priority="1" />
+      <Item value="WebServerClient`0" priority="0" />
+      <Item value="AuthorizationServer`0" priority="1" />
+      <Item value="ViewBag" priority="2" />
+      <Item value="Google.Apis" priority="0" />
+      <Item value="service" priority="1" />
+      <Item value="public" priority="4" />
+      <Item value="void" priority="0" />
+      <Item value="ActionResult`0" priority="0" />
+      <Item value="GoogleConsumer" priority="0" />
+      <Item value="Apis" priority="0" />
+      <Item value="Authentication" priority="0" />
+      <Item value="Testing" priority="0" />
+      <Item value="OAuth" priority="0" />
+      <Item value="System" priority="0" />
+      <Item value="Web" priority="0" />
+      <Item value="SessionState" priority="0" />
+      <Item value="JaxDug" priority="0" />
+      <Item value="Models" priority="1" />
+      <Item value="HttpContext`0" priority="0" />
+      <Item value="GoogleServiceModel`0" priority="2" />
+      <Item value="SeriesResource`0" priority="0" />
+      <Item value="_service" priority="3" />
+      <Item value="return" priority="1" />
+      <Item value="SeriesList`0" priority="0" />
+      <Item value="null" priority="0" />
+      <Item value="long" priority="1" />
+      <Item value="seriesId" priority="1" />
+      <Item value="Submission`0" priority="0" />
+      <Item value="HomeController`0" priority="0" />
+      <Item value="ModeratorService" priority="0" />
+      <Item value="private" priority="0" />
+      <Item value="GoogleServiceModel" priority="0" />
+      <Item value="_google" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Web.HttpContextBase">
+      <Item value="Request" priority="0" />
+      <Item value="User" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@Google.Apis.Moderator.v1.ModeratorService+Scopes">
+      <Item value="Moderator" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Google.Apis.Moderator.v1.ModeratorService+Scopes">
+      <Item value="CompareTo`0" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Google.Apis.Moderator.v1.ModeratorService">
+      <Item value="Series" priority="3" />
+      <Item value="Submissions" priority="1" />
+      <Item value="Topics" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Google.Apis.Moderator.v1.SeriesResource">
+      <Item value="Get`0" priority="0" />
+      <Item value="List`0" priority="2" />
+      <Item value="Submissions" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Web.HttpContext">
+      <Item value="Current" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Google.Apis.Moderator.v1.SeriesResource+ListRequest">
+      <Item value="Fetch`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Google.Apis.Moderator.v1.Data.SeriesList">
+      <Item value="Items" priority="1" />
+      <Item value="Kind" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.Generic.IList`1">
+      <Item value="Select`2" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Google.Apis.Moderator.v1.SubmissionsResource">
+      <Item value="Get`0" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Google.Apis.Moderator.v1.Data.Series">
+      <Item value="Name" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Google.Apis.Moderator.v1.TopicsResource">
+      <Item value="List`0" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Google.Apis.Moderator.v1.TopicsResource+ListRequest">
+      <Item value="Fetch`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Google.Apis.Moderator.v1.SubmissionsResource+GetRequest">
+      <Item value="Fetch`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:JaxDug.Models.GoogleServiceModel">
+      <Item value="FetchSerieslists`0" priority="0" />
+    </ItemStatistics>
+  </CompletionStatisticsManager>
+</Configuration>

@@ -1,0 +1,15 @@
+﻿@model Google.Apis.Moderator.v1.Data.SubmissionList
+@using Google.Apis.Moderator.v1.Data;
+@using JaxDug.Models;
+
+@{
+    ViewBag.Title = "Submissions";
+}
+
+<h2>Submissions</h2>
+<ul>
+@foreach (Submission s in Model.Items)
+{
+     <li>@s.Text - @s.Attribution.DisplayName</li>
+}
+</ul>
