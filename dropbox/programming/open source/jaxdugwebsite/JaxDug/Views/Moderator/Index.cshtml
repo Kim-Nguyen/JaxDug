@@ -1,0 +1,28 @@
+﻿@model Google.Apis.Moderator.v1.Data.TopicList
+@using Google.Apis.Moderator.v1.Data;
+@using JaxDug.Models;
+
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Available Topics:</h2>
+<ul>
+@foreach (Topic t in Model.Items)
+{
+    <li><strong>@Html.ActionLink(t.Name,"Submissions",new{ topic = t.Id.TopicId}) </strong>
+    @if (t.Counters != null)
+    {
+        
+    <ul>    
+        <li>Users: @t.Counters.Users.Value.ToString()</li>
+        <li>Submissions: @t.Counters.Submissions.Value.ToString()</li>
+        <li>+1 Votes: @t.Counters.PlusVotes.Value.ToString()</li>
+        <li>-1 Votes: @t.Counters.MinusVotes.Value.ToString()</li>
+    </ul>
+    }
+    </li>
+    
+}
+</ul>

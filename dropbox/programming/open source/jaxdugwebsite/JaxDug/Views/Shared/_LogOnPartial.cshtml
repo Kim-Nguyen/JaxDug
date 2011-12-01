@@ -1,7 +1,13 @@
-﻿@if(Request.IsAuthenticated) {
-    <text>Welcome <strong>@User.Identity.Name</strong>!
-    [ @Html.ActionLink("Log Off", "LogOff", "Account") ]</text>
+﻿@if (Request.IsAuthenticated)
+{
+    <text>Welcome <strong>@User.Identity.Name</strong>! [ @Html.ActionLink("Log Off", "LogOff", "Account")
+    ]</text>
 }
-else {
-    @:[ @Html.ActionLink("Log On", "LogOn", "Account") ]
+else
+{
+    using (Html.BeginForm("OpenIdLogon", "Account", FormMethod.Post, new { @id = "openIdForm" }))
+    {          
+        @Html.Hidden("openid_identifier", "https://www.google.com/accounts/o8/id")
+        @:[<a href="javascript:$('#openIdForm').submit();" style="font-size:small;">Login: Google</a>][@Html.ActionLink("?", "OpenIdLogOn", "Account",null, new { style = "text-decoration:none; font-size:small;" })]
+    }
 }

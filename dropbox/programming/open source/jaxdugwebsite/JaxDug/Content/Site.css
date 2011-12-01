@@ -177,7 +177,7 @@ ul#menu li.selected a {
 
 fieldset {
     border: 1px solid #ddd;
-    padding: 0 1.4em 1.4em 1.4em;
+    padding: 1.4em 1.4em 1.4em 1.4em;
     margin: 0 0 1.5em 0;
 }
 
@@ -215,13 +215,11 @@ input[type="submit"] {
 ----------------------------------------------------------*/
 
 table {
-    border: solid 1px #e8eef4;
     border-collapse: collapse;
 }
 
 table td {
     padding: 5px;
-    border: solid 1px #e8eef4;
 }
 
 table th {

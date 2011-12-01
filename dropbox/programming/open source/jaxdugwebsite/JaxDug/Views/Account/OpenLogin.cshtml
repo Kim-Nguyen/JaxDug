@@ -1,0 +1,25 @@
+﻿@using (Html.BeginForm("OpenIdLogon", "Account", FormMethod.Post, new { @id = "openIdForm" }))
+{          
+    <fieldset>
+        <table style="border: 0px;">
+            <tr>
+                <td style="border-right: 1px solid #ccc; padding-right:10px;text-align:center;width:20%;">
+                    <img src="../../Images/google-icon.png" /><br />
+                    @Html.Hidden("openid_identifier", "https://www.google.com/accounts/o8/id")
+                    <strong>Log on using</strong><br />
+                    [<a href="javascript:$('#openIdForm').submit();">Google</a>]
+                </td>
+                <td style="padding-left:10px;">
+                    <h4>
+                        Why Google?</h4>
+                    <p>We are using Google Moderator as the back end for parts of the website and many areas require
+                        a Google account to interact. You will be able to navigate the website without one
+                        but you will miss out on a lot of the features that allow you to have input.</p>
+
+                        <p><i>We do not log nor do we have access to your account credentials. This allows for a more 
+                        secure login as all credentials are stored on Google's servers.</i></p>
+                </td>
+            </tr>
+        </table>
+    </fieldset>
+}

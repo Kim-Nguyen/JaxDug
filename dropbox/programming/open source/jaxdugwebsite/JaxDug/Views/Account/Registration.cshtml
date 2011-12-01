@@ -1,0 +1,26 @@
+﻿@using (Html.BeginForm(new { Controller = "Account", Action = "OpenIdRegistrationLogOn" })){         
+    <fieldset>
+        <div class="containercontent" style="padding: 10px 20px;">
+            @if( string.IsNullOrEmpty(Model.busUser.Entity.OpenId) ) {
+                <label for="openid_identifier" class="labelheaderblock">
+                    Enter an OpenId Url:</label>
+                <input id="openid_identifier" size="40" name="openid_identifier" />             
+                <input id="btnOpenIdLogin" type="submit" value="Login" /> 
+                <img id="imgOpenIdLoginProgress" src="@ResolveUrl("~/css/images/loading_small.gif")" style="display:none" />                 
+                 
+                <div id="divOpenIdIcons">
+                    <img src="@ResolveUrl("~/images/openid-icon.png")" onclick="openIdUrl('openid')" title="myopenid.com" class="hoverbutton" />
+                    <img src="@ResolveUrl("~/images/google-icon.png")" onclick="openIdUrl('google')" title="Google" class="hoverbutton"/>
+                    <img src="@ResolveUrl("~/images/yahoo-icon.png")"  onclick="openIdUrl('yahoo')" title="Yahoo" class="hoverbutton" />
+                </div>
+                             
+             } else {    
+                <label for="openid_identifier" class="labelheaderblock">
+                    OpenId Association</label>
+                <img src="@ResolveUrl("~/css/images/greencheck.gif")" /> @:This user account is linked to <b>@Html.Encode(Model.busUser.Entity.OpenId)</b>
+                <input id="btnOpenIdUnlink" name="btnOpenIdUnlink" type="submit" value="Unlink" />                     
+             }
+            @Html.Hidden("Id2", this.Model.busUser.Entity.Id)
+        </div>
+    </fieldset>
+    }

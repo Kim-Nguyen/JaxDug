@@ -1,0 +1,12 @@
+R# version: 5.1.1753.4
+assembly Google.Apis, Version=1.1.4338.25503, Culture=neutral
+  file C:\Users\Tony\Dropbox\Programming\Librarys\Google Library\Lib\Google.Apis.dll mtime 11/22/2011 12:50:21 AM
+  file C:\Users\Tony\Dropbox\Programming\Open Source\jaxdugwebsite\JaxDug\Bin\Google.Apis.dll mtime 11/22/2011 12:50:21 AM
+referenced assembly mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+  file C:\Windows\Microsoft.NET\Framework\v2.0.50727\mscorlib.dll mtime 7/8/2011 10:33:43 PM
+referenced assembly System, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+  file C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.dll mtime 3/19/2010 12:31:26 AM
+referenced assembly Newtonsoft.Json.Net35, Version=4.0.2.0, Culture=neutral
+  file C:\Users\Tony\Dropbox\Programming\Open Source\jaxdugwebsite\JaxDug\Bin\Newtonsoft.Json.Net35.dll mtime 11/22/2011 12:50:22 AM
+referenced assembly System.Core, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+  file C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Core.dll mtime 3/19/2010 12:31:26 AM
