@@ -1,0 +1,71 @@
+<Configuration>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="406189E8-65F4-4C4B-A2F6-57D8A933964D/d:App_Readme/f:glimpse.mvc3.readme.txt" caret="94" fromTop="5" />
+      <File id="406189E8-65F4-4C4B-A2F6-57D8A933964D/d:App_Readme/f:glimpse.readme.txt" caret="0" fromTop="0" />
+      <File id="406189E8-65F4-4C4B-A2F6-57D8A933964D/d:Models/f:AccountModels.cs" caret="0" fromTop="0" />
+      <File id="406189E8-65F4-4C4B-A2F6-57D8A933964D/d:Controllers/f:AccountController.cs" caret="292" fromTop="13" />
+      <File id="406189E8-65F4-4C4B-A2F6-57D8A933964D/d:Models/f:VoteService.cs" caret="291" fromTop="11" />
+      <File id="406189E8-65F4-4C4B-A2F6-57D8A933964D/f:Global.asax.cs" caret="453" fromTop="9" />
+      <File id="406189E8-65F4-4C4B-A2F6-57D8A933964D/d:Models/f:Comment.cs" caret="550" fromTop="16" />
+      <File id="406189E8-65F4-4C4B-A2F6-57D8A933964D/d:Models/f:Topic.cs" caret="491" fromTop="10" />
+      <File id="406189E8-65F4-4C4B-A2F6-57D8A933964D/d:Models/f:Vote.cs" caret="390" fromTop="13" />
+      <File id="406189E8-65F4-4C4B-A2F6-57D8A933964D/d:Models/f:Suggestion.cs" caret="558" fromTop="13" />
+      <File id="406189E8-65F4-4C4B-A2F6-57D8A933964D/d:Controllers/f:BaseController.cs" caret="283" fromTop="12" />
+      <File id="406189E8-65F4-4C4B-A2F6-57D8A933964D/d:Models/f:UserInfo.cs" caret="474" fromTop="16" />
+      <File id="406189E8-65F4-4C4B-A2F6-57D8A933964D/d:Models/f:VoteSystemDataContext.cs" caret="10218" fromTop="39" />
+      <File id="406189E8-65F4-4C4B-A2F6-57D8A933964D/d:Views/d:Home/f:About.cshtml" caret="953" fromTop="16" />
+      <File id="406189E8-65F4-4C4B-A2F6-57D8A933964D/d:Controllers/f:HomeController.cs" caret="429" fromTop="19" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="406189E8-65F4-4C4B-A2F6-57D8A933964D/d:Models/f:Vote.cs" caret="456" fromTop="18" />
+      <File id="406189E8-65F4-4C4B-A2F6-57D8A933964D/d:Models/f:Comment.cs" caret="550" fromTop="16" />
+      <File id="406189E8-65F4-4C4B-A2F6-57D8A933964D/d:Models/f:Suggestion.cs" caret="221" fromTop="9" />
+      <File id="406189E8-65F4-4C4B-A2F6-57D8A933964D/d:Models/f:Topic.cs" caret="195" fromTop="5" />
+      <File id="406189E8-65F4-4C4B-A2F6-57D8A933964D/d:Models/f:VoteSystemDataContext.cs" caret="5977" fromTop="17" />
+      <File id="406189E8-65F4-4C4B-A2F6-57D8A933964D/d:Models/f:VoteSystemDataContext.cs" caret="4834" fromTop="20" />
+      <File id="406189E8-65F4-4C4B-A2F6-57D8A933964D/d:Models/f:VoteSystemDataContext.cs" caret="6567" fromTop="30" />
+      <File id="406189E8-65F4-4C4B-A2F6-57D8A933964D/d:Models/f:VoteSystemDataContext.cs" caret="10067" fromTop="30" />
+      <File id="406189E8-65F4-4C4B-A2F6-57D8A933964D/d:Views/d:Home/f:About.cshtml" caret="1209" fromTop="13" />
+      <File id="406189E8-65F4-4C4B-A2F6-57D8A933964D/d:Views/d:Home/f:About.cshtml" caret="1209" fromTop="23" />
+      <File id="406189E8-65F4-4C4B-A2F6-57D8A933964D/d:Models/f:Topic.cs" caret="120" fromTop="3" />
+      <File id="406189E8-65F4-4C4B-A2F6-57D8A933964D/d:Models/f:Vote.cs" caret="397" fromTop="15" />
+      <File id="406189E8-65F4-4C4B-A2F6-57D8A933964D/d:Models/f:Vote.cs" caret="96" fromTop="3" />
+      <File id="406189E8-65F4-4C4B-A2F6-57D8A933964D/d:Models/f:Vote.cs" caret="392" fromTop="14" />
+      <File id="406189E8-65F4-4C4B-A2F6-57D8A933964D/d:Models/f:Topic.cs" caret="544" fromTop="21" />
+      <File id="406189E8-65F4-4C4B-A2F6-57D8A933964D/d:Views/d:Home/f:About.cshtml" caret="1209" fromTop="9" />
+      <File id="406189E8-65F4-4C4B-A2F6-57D8A933964D/d:Views/d:Home/f:About.cshtml" caret="1209" fromTop="18" />
+      <File id="406189E8-65F4-4C4B-A2F6-57D8A933964D/d:Views/d:Home/f:About.cshtml" caret="1045" fromTop="19" />
+      <File id="406189E8-65F4-4C4B-A2F6-57D8A933964D/d:Views/d:Home/f:About.cshtml" caret="482" fromTop="6" />
+      <File id="406189E8-65F4-4C4B-A2F6-57D8A933964D/d:Models/f:VoteSystemDataContext.cs" caret="5364" fromTop="18" />
+      <File id="406189E8-65F4-4C4B-A2F6-57D8A933964D/d:Models/f:Topic.cs" caret="491" fromTop="10" />
+      <File id="406189E8-65F4-4C4B-A2F6-57D8A933964D/d:Models/f:Vote.cs" caret="289" fromTop="11" />
+      <File id="406189E8-65F4-4C4B-A2F6-57D8A933964D/d:Models/f:VoteSystemDataContext.cs" caret="7398" fromTop="7" />
+      <File id="406189E8-65F4-4C4B-A2F6-57D8A933964D/d:Models/f:VoteSystemDataContext.cs" caret="7884" fromTop="16" />
+      <File id="406189E8-65F4-4C4B-A2F6-57D8A933964D/d:Models/f:VoteSystemDataContext.cs" caret="8383" fromTop="25" />
+      <File id="406189E8-65F4-4C4B-A2F6-57D8A933964D/d:Models/f:VoteSystemDataContext.cs" caret="8869" fromTop="18" />
+      <File id="406189E8-65F4-4C4B-A2F6-57D8A933964D/d:Models/f:VoteSystemDataContext.cs" caret="9355" fromTop="15" />
+      <File id="406189E8-65F4-4C4B-A2F6-57D8A933964D/d:Models/f:VoteSystemDataContext.cs" caret="9854" fromTop="15" />
+      <File id="406189E8-65F4-4C4B-A2F6-57D8A933964D/d:Models/f:UserInfo.cs" caret="190" fromTop="8" />
+      <File id="406189E8-65F4-4C4B-A2F6-57D8A933964D/d:Controllers/f:HomeController.cs" caret="618" fromTop="24" />
+    </RecentEdits>
+  </RecentFiles>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <UnitTestRunner>
+    <Providers />
+  </UnitTestRunner>
+  <UnitTestRunnerNUnit>
+    <NUnitInstallDir IsNull="False">
+    </NUnitInstallDir>
+    <UseAddins>Never</UseAddins>
+  </UnitTestRunnerNUnit>
+</Configuration>

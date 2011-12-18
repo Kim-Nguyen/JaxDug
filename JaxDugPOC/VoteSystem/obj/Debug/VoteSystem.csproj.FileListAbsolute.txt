@@ -1,0 +1,14 @@
+C:\Users\Tony\Dropbox\Programming\Source Code\PoC\JaxDugPOC\VoteSystem\bin\VoteSystem.dll
+C:\Users\Tony\Dropbox\Programming\Source Code\PoC\JaxDugPOC\VoteSystem\bin\VoteSystem.pdb
+C:\Users\Tony\Dropbox\Programming\Source Code\PoC\JaxDugPOC\VoteSystem\bin\DataAnnotationsExtensions.ClientValidation.dll
+C:\Users\Tony\Dropbox\Programming\Source Code\PoC\JaxDugPOC\VoteSystem\bin\DataAnnotationsExtensions.dll
+C:\Users\Tony\Dropbox\Programming\Source Code\PoC\JaxDugPOC\VoteSystem\bin\EntityFramework.dll
+C:\Users\Tony\Dropbox\Programming\Source Code\PoC\JaxDugPOC\VoteSystem\bin\Glimpse.Core.dll
+C:\Users\Tony\Dropbox\Programming\Source Code\PoC\JaxDugPOC\VoteSystem\bin\Glimpse.Mvc3.dll
+C:\Users\Tony\Dropbox\Programming\Source Code\PoC\JaxDugPOC\VoteSystem\bin\PagedList.dll
+C:\Users\Tony\Dropbox\Programming\Source Code\PoC\JaxDugPOC\VoteSystem\bin\WebActivator.dll
+C:\Users\Tony\Dropbox\Programming\Source Code\PoC\JaxDugPOC\VoteSystem\bin\EntityFramework.xml
+C:\Users\Tony\Dropbox\Programming\Source Code\PoC\JaxDugPOC\VoteSystem\bin\PagedList.xml
+C:\Users\Tony\Dropbox\Programming\Source Code\PoC\JaxDugPOC\VoteSystem\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Tony\Dropbox\Programming\Source Code\PoC\JaxDugPOC\VoteSystem\obj\Debug\VoteSystem.dll
+C:\Users\Tony\Dropbox\Programming\Source Code\PoC\JaxDugPOC\VoteSystem\obj\Debug\VoteSystem.pdb

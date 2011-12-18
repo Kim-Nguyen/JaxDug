@@ -1,0 +1,13 @@
+C:\Users\Tony\Dropbox\Programming\Source Code\PoC\JaxDugPOC\VoteSystem.Tests\bin\Debug\VoteSystem.Tests.dll.config
+C:\Users\Tony\Dropbox\Programming\Source Code\PoC\JaxDugPOC\VoteSystem.Tests\bin\Debug\VoteSystem.Tests.dll
+C:\Users\Tony\Dropbox\Programming\Source Code\PoC\JaxDugPOC\VoteSystem.Tests\bin\Debug\VoteSystem.Tests.pdb
+C:\Users\Tony\Dropbox\Programming\Source Code\PoC\JaxDugPOC\VoteSystem.Tests\bin\Debug\VoteSystem.dll
+C:\Users\Tony\Dropbox\Programming\Source Code\PoC\JaxDugPOC\VoteSystem.Tests\bin\Debug\WebActivator.dll
+C:\Users\Tony\Dropbox\Programming\Source Code\PoC\JaxDugPOC\VoteSystem.Tests\bin\Debug\DataAnnotationsExtensions.ClientValidation.dll
+C:\Users\Tony\Dropbox\Programming\Source Code\PoC\JaxDugPOC\VoteSystem.Tests\bin\Debug\DataAnnotationsExtensions.dll
+C:\Users\Tony\Dropbox\Programming\Source Code\PoC\JaxDugPOC\VoteSystem.Tests\bin\Debug\VoteSystem.pdb
+C:\Users\Tony\Dropbox\Programming\Source Code\PoC\JaxDugPOC\VoteSystem.Tests\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Tony\Dropbox\Programming\Source Code\PoC\JaxDugPOC\VoteSystem.Tests\obj\Debug\VoteSystem.Tests.dll
+C:\Users\Tony\Dropbox\Programming\Source Code\PoC\JaxDugPOC\VoteSystem.Tests\obj\Debug\VoteSystem.Tests.pdb
+C:\Users\Tony\Dropbox\Programming\Source Code\PoC\JaxDugPOC\VoteSystem.Tests\bin\Debug\EntityFramework.dll
+C:\Users\Tony\Dropbox\Programming\Source Code\PoC\JaxDugPOC\VoteSystem.Tests\bin\Debug\EntityFramework.xml

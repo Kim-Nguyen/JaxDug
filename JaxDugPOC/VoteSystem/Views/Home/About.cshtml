@@ -1,0 +1,41 @@
+﻿@model List<VoteSystem.Models.Topic>
+@using VoteSystem.Models
+@{
+    ViewBag.Title = "About Us";
+}
+<h2>
+    About</h2>
+<p>
+    <ul>
+        @foreach (Topic t in Model)
+        {
+            <li>@t.Name
+            <ul>
+                @foreach (Suggestion s in t.Suggestions)
+                {
+                    <li>@s.Content
+                        @{int plus = 0;
+                          int negative = 0;}
+                        @foreach (Vote v in s.Votes)
+                        {
+                            if (v.SuggestionId == s.SuggestionId)
+                            {
+                                if (v.Descision == Descision.Plus)
+                                {
+                                    plus++;
+                                }
+                                if (v.Descision == Descision.Negative)
+                                {
+                                    negative++;
+                                }
+                            }
+                        }
+                        Votes: Plus - @plus Negative - @negative
+                    </li>
+             
+                }
+            </ul>
+            </li>
+        }
+    </ul>
+</p>
